@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<buildprofiles xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/build-profiles.xsd"
+               xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+    <variables></variables>
+    <build-profile instance="adoc">
+        <variables></variables>
+    </build-profile>
+    <build-profile instance="u">
+        <variables></variables>
+    </build-profile>
+    <build-profile instance="uni">
+        <variables></variables>
+    </build-profile>
+    <build-profile instance="Unitrade Global Documentations">
+        <variables>
+            <noindex-content>true</noindex-content>
+        </variables>
+    </build-profile>
+
+</buildprofiles>

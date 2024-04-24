@@ -4,9 +4,22 @@
 
 <instance-profile id="uni"
                  name="uni"
-                 start-page="uni.md">
+                 start-page="Methods-of-Integration.md">
 
-    <toc-element topic="Empty-MD-Topic.md"/>
-    <toc-element topic="How-to.md"/>
-    <toc-element topic="uni.md"/>
+    <toc-element topic="Methods-of-Integration.md">
+        <toc-element topic="API.md">
+            <toc-element topic="Starter.md"/>
+            <toc-element topic="Manifests.md"/>
+            <toc-element topic="Bags.md"/>
+            <toc-element topic="Tracking-events.md"/>
+            <toc-element topic="Parcels.md"/>
+        </toc-element>
+        <toc-element topic="ESB.md">
+            <toc-element topic="Starter2.md"/>
+            <toc-element topic="Tracking-events2.md"/>
+            <toc-element topic="Bags2.md"/>
+            <toc-element topic="Parcels2.md"/>
+            <toc-element topic="Manifests2.md"/>
+        </toc-element>
+    </toc-element>
 </instance-profile>
