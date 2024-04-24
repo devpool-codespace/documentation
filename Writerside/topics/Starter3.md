@@ -6,7 +6,8 @@ You can use it as a sandbox to play with Writerside features, and remove it from
 ## Add new topics
 You can create empty topics, or choose a template for different types of content that contains some boilerplate structure to help you get started:
 
- 
+![Create new topic options] { width=290 }{border-effect=line}
+
 ## Write content
 %product% supports two types of markup: Markdown and XML.
 When you create a new help article, you can choose between two topic types, but this doesn't mean you have to stick to a single format.
@@ -18,7 +19,8 @@ For example, this is how you inject a procedure:
 <procedure title="Inject a procedure" id="inject-a-procedure">
     <step>
         <p>Start typing and select a procedure type from the completion suggestions:</p>
-    </step>
+      </step> 
+
     <step>
         <p>Press <shortcut>Tab</shortcut> or <shortcut>Enter</shortcut> to insert the markup.</p>
     </step>
@@ -34,7 +36,7 @@ To add switchable content, you can make use of tabs (inject them by starting to 
         <code-block lang="plain text">![Alt Text](new_topic_options.png){ width=450 }</code-block>
     </tab>
     <tab title="Semantic markup">
-       ss
+        ss
     </tab>
 </tabs>
 
@@ -52,7 +54,7 @@ If you need to extend an element with more functions, you can convert selected c
 For example, if you want to merge cells in a table, it's much easier to convert it to XML than do this in Markdown.
 Position the caret anywhere in the table and press <shortcut>Alt+Enter</shortcut>:
 
- 
+
 ## Feedback and support
 Please report any issues, usability improvements, or feature requests to our
 <a href="https://youtrack.jetbrains.com/newIssue?project=WRS">YouTrack project</a>

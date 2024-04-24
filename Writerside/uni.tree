@@ -22,4 +22,12 @@
             <toc-element topic="Manifests2.md"/>
         </toc-element>
     </toc-element>
+    <toc-element topic="Test.md">
+        <toc-element topic="Reference.md"/>
+        <toc-element topic="Overview2.md"/>
+        <toc-element topic="How-to5.md"/>
+        <toc-element topic="Empty-MD-Topic2.md"/>
+        <toc-element topic="Starter3.md"/>
+    </toc-element>
+    <toc-element topic="Tutorial2.md"/>
 </instance-profile>
